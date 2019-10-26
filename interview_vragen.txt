@@ -1,0 +1,19 @@
+
+directeur - seccretariaat - jurist - sale manager - balie medewerker -
+beoordeler.
+
+baliemedewerker -> voert gegevens klant -> financiele klanten van klant ->
+gesprek -> akkoord of geen akkoord -> huring
+
+sale afdeling verantwoordelijk voor prijzen en contracten.
+
+Geen maximale tijd om te huren, Wel is er een opzegtermijn.
+
+Betaalmogelijkheden, maandelijkse betalingen.
+
+gegevens van klanten: kvk, naam etc.
+
+incasso tweede maand triggeren.
+
+
+Denk aan Factuurs, Bon, winstmodel etc.
